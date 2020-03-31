@@ -19,16 +19,16 @@
         * filtering by genre(s)
         * sorting by album name and release year (asc/desc)
         
- *DATABASE
- *H2 Database. H2 is a in-memory sql database.Easy to setup.
+ * DATABASE
+ * H2 Database. H2 is a in-memory sql database.Easy to setup.
  These databases are directly created inside the application.The Schemas are defined, the tables are created,the data is populated 
  and once the application stops, the entire database is destroyed and removed from memory.
  The great thing about these databases is you don't really need to maintain them.
  
- *SWAGGER
+ * SWAGGER
  ![](images/swagger_endpoints.png)
  
- *DATABASE
+ * DATABASE
  ![](images/DB_ALBUM.png)
  ![](images/DB_ARTIST.png)
  
